@@ -1,0 +1,20 @@
+body{
+	font-family: 'Cantata One', 'Trebuchet MS', sans-serif;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.container{
+  margin-top:20px;
+  background-color:rgba(200,200,200,0.5);
+  border-radius:10px;
+}
+span{
+  font-size:32px;
+}
+
+.cs-text span { 
+	display: inline-block;
+}
+.hidden{
+  display:none;
+}
